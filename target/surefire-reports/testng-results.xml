@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-06-13T09:55:05 CLT" name="Sample Test Suite" finished-at="2023-06-13T09:56:11 CLT" duration-ms="66205">
+  <suite started-at="2023-07-14T16:02:48 CLT" name="Sample Test Suite" finished-at="2023-07-14T16:03:56 CLT" duration-ms="68261">
     <groups>
     </groups>
-    <test started-at="2023-06-13T09:55:05 CLT" name="Test Automation" finished-at="2023-06-13T09:56:11 CLT" duration-ms="66205">
+    <test started-at="2023-07-14T16:02:48 CLT" name="Test Automation" finished-at="2023-07-14T16:03:56 CLT" duration-ms="68261">
       <class name="test.java.carritocompras.CC_Test">
-        <test-method is-config="true" signature="beforeTestMethod()[pri:0, instance:test.java.carritocompras.CC_Test@7193666c]" started-at="2023-06-13T09:55:05 CLT" name="beforeTestMethod" finished-at="2023-06-13T09:55:05 CLT" duration-ms="105" status="PASS">
+        <test-method is-config="true" signature="beforeTestMethod()[pri:0, instance:test.java.carritocompras.CC_Test@7193666c]" started-at="2023-07-14T16:02:48 CLT" name="beforeTestMethod" finished-at="2023-07-14T16:02:48 CLT" duration-ms="108" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTestMethod -->
-        <test-method is-config="true" signature="beforeMethodMethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:test.java.carritocompras.CC_Test@7193666c]" started-at="2023-06-13T09:55:05 CLT" name="beforeMethodMethod" finished-at="2023-06-13T09:55:07 CLT" duration-ms="1517" status="PASS">
+        <test-method is-config="true" signature="beforeMethodMethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:test.java.carritocompras.CC_Test@7193666c]" started-at="2023-07-14T16:02:48 CLT" name="beforeMethodMethod" finished-at="2023-07-14T16:02:53 CLT" duration-ms="4409" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -27,18 +27,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethodMethod -->
-        <test-method signature="CC_QA_Automatizacion([Ljava.lang.String;)[pri:0, instance:test.java.carritocompras.CC_Test@7193666c]" started-at="2023-06-13T09:55:07 CLT" name="CC_QA_Automatizacion" data-provider="Data" finished-at="2023-06-13T09:55:26 CLT" duration-ms="19712" status="PASS">
+        <test-method signature="CC_QA_Automatizacion([Ljava.lang.String;)[pri:0, instance:test.java.carritocompras.CC_Test@7193666c]" started-at="2023-07-14T16:02:53 CLT" name="CC_QA_Automatizacion" data-provider="Data" finished-at="2023-07-14T16:03:12 CLT" duration-ms="19617" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[Ljava.lang.String;@69c93ca4]]>
+                <![CDATA[[Ljava.lang.String;@23e44287]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CC_QA_Automatizacion -->
-        <test-method is-config="true" signature="afterMethodMethod(org.testng.ITestResult)[pri:0, instance:test.java.carritocompras.CC_Test@7193666c]" started-at="2023-06-13T09:55:26 CLT" name="afterMethodMethod" finished-at="2023-06-13T09:55:27 CLT" duration-ms="126" status="PASS">
+        <test-method is-config="true" signature="afterMethodMethod(org.testng.ITestResult)[pri:0, instance:test.java.carritocompras.CC_Test@7193666c]" started-at="2023-07-14T16:03:12 CLT" name="afterMethodMethod" finished-at="2023-07-14T16:03:12 CLT" duration-ms="3" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -49,7 +49,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethodMethod -->
-        <test-method is-config="true" signature="beforeMethodMethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:test.java.carritocompras.CC_Test@7193666c]" started-at="2023-06-13T09:55:27 CLT" name="beforeMethodMethod" finished-at="2023-06-13T09:55:28 CLT" duration-ms="1170" status="PASS">
+        <test-method is-config="true" signature="beforeMethodMethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:test.java.carritocompras.CC_Test@7193666c]" started-at="2023-07-14T16:03:12 CLT" name="beforeMethodMethod" finished-at="2023-07-14T16:03:14 CLT" duration-ms="1164" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -65,18 +65,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethodMethod -->
-        <test-method signature="CC_QA_Automatizacion([Ljava.lang.String;)[pri:0, instance:test.java.carritocompras.CC_Test@7193666c]" started-at="2023-06-13T09:55:28 CLT" name="CC_QA_Automatizacion" data-provider="Data" finished-at="2023-06-13T09:55:49 CLT" duration-ms="21713" status="PASS">
+        <test-method signature="CC_QA_Automatizacion([Ljava.lang.String;)[pri:0, instance:test.java.carritocompras.CC_Test@7193666c]" started-at="2023-07-14T16:03:14 CLT" name="CC_QA_Automatizacion" data-provider="Data" finished-at="2023-07-14T16:03:35 CLT" duration-ms="21587" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[Ljava.lang.String;@60e5272]]>
+                <![CDATA[[Ljava.lang.String;@2b8d084]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CC_QA_Automatizacion -->
-        <test-method is-config="true" signature="afterMethodMethod(org.testng.ITestResult)[pri:0, instance:test.java.carritocompras.CC_Test@7193666c]" started-at="2023-06-13T09:55:50 CLT" name="afterMethodMethod" finished-at="2023-06-13T09:55:50 CLT" duration-ms="126" status="PASS">
+        <test-method is-config="true" signature="afterMethodMethod(org.testng.ITestResult)[pri:0, instance:test.java.carritocompras.CC_Test@7193666c]" started-at="2023-07-14T16:03:35 CLT" name="afterMethodMethod" finished-at="2023-07-14T16:03:35 CLT" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -87,7 +87,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethodMethod -->
-        <test-method is-config="true" signature="beforeMethodMethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:test.java.carritocompras.CC_Test@7193666c]" started-at="2023-06-13T09:55:50 CLT" name="beforeMethodMethod" finished-at="2023-06-13T09:55:51 CLT" duration-ms="1437" status="PASS">
+        <test-method is-config="true" signature="beforeMethodMethod(java.lang.String,java.lang.reflect.Method)[pri:0, instance:test.java.carritocompras.CC_Test@7193666c]" started-at="2023-07-14T16:03:35 CLT" name="beforeMethodMethod" finished-at="2023-07-14T16:03:36 CLT" duration-ms="1180" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -103,18 +103,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethodMethod -->
-        <test-method signature="CC_QA_Automatizacion([Ljava.lang.String;)[pri:0, instance:test.java.carritocompras.CC_Test@7193666c]" started-at="2023-06-13T09:55:51 CLT" name="CC_QA_Automatizacion" data-provider="Data" finished-at="2023-06-13T09:56:11 CLT" duration-ms="19519" status="PASS">
+        <test-method signature="CC_QA_Automatizacion([Ljava.lang.String;)[pri:0, instance:test.java.carritocompras.CC_Test@7193666c]" started-at="2023-07-14T16:03:36 CLT" name="CC_QA_Automatizacion" data-provider="Data" finished-at="2023-07-14T16:03:56 CLT" duration-ms="19541" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[Ljava.lang.String;@7d755813]]>
+                <![CDATA[[Ljava.lang.String;@6daf2337]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CC_QA_Automatizacion -->
-        <test-method is-config="true" signature="afterMethodMethod(org.testng.ITestResult)[pri:0, instance:test.java.carritocompras.CC_Test@7193666c]" started-at="2023-06-13T09:56:11 CLT" name="afterMethodMethod" finished-at="2023-06-13T09:56:11 CLT" duration-ms="96" status="PASS">
+        <test-method is-config="true" signature="afterMethodMethod(org.testng.ITestResult)[pri:0, instance:test.java.carritocompras.CC_Test@7193666c]" started-at="2023-07-14T16:03:56 CLT" name="afterMethodMethod" finished-at="2023-07-14T16:03:56 CLT" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -125,7 +125,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethodMethod -->
-        <test-method is-config="true" signature="afterTestMethod()[pri:0, instance:test.java.carritocompras.CC_Test@7193666c]" started-at="2023-06-13T09:56:11 CLT" name="afterTestMethod" finished-at="2023-06-13T09:56:11 CLT" duration-ms="172" status="PASS">
+        <test-method is-config="true" signature="afterTestMethod()[pri:0, instance:test.java.carritocompras.CC_Test@7193666c]" started-at="2023-07-14T16:03:56 CLT" name="afterTestMethod" finished-at="2023-07-14T16:03:56 CLT" duration-ms="161" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTestMethod -->

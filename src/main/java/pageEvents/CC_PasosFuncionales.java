@@ -15,12 +15,12 @@ import main.java.utils.GG_Validations;
 import test.java.carritocompras.CC_Test;
 
 //En esta clase se ejecutan los Pasos de la P�gina.
-public class CC_PasosFuncionales extends CC_Test{
+public class CC_PasosFuncionales extends CC_Test {
 
 	public CC_PasosFuncionales(WebDriver driver) {
 		CC_Test.driver = driver;
 	}
-
+	
 	public static void iniciarSesion(String usuario, String contrasena, String xNumero) {
 		
 		String currentEvent = new Throwable().getStackTrace()[0].getMethodName();
@@ -106,6 +106,7 @@ public class CC_PasosFuncionales extends CC_Test{
 			WebElement spanCarritoElement = elementFetch.getWebElement("XPATH", CC_Localizadores.labelNumeroCarrito);
 			wait.until(ExpectedConditions.visibilityOf(spanCarritoElement));
 			String cantidadCarrito = spanCarritoElement.getText();
+			
 			GG_Validations.trueBooleanCondition(cantidadCarrito.contains(totalProductos),
 					"Se ha agregado producto(s) al carrito correctamente",
 					"No se ha agregado producto(s) al carrito correctamente, se esperaba '" + totalProductos + "'", currentEvent);
